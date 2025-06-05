@@ -20,10 +20,11 @@ A  pipeline for 3D face reconstruction from multi-view images using:
    cd 3D-reconstruction-project
 2 install dependencies
    pip install -r requirements.txt
-3 usage
+3 usage:
    Prepare input:
 Place images in /samples/samples directory
 
-4 run reconstruction
+4 run reconstruction:
 python calibrated.py 
+
 python uncalibrated.py
