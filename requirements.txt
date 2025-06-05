@@ -1,0 +1,7 @@
+opencv-python>=4.5.5
+numpy>=1.21.0
+open3d>=0.15.1
+mediapipe>=0.8.9.1
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
