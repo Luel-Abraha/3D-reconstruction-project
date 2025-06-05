@@ -18,13 +18,12 @@ A  pipeline for 3D face reconstruction from multi-view images using:
    ```bash
    git clone https://github.com/luel-abraha/3D-reconstruction-project.git
    cd 3D-reconstruction-project
-## install dependencies
+2 install dependencies
    pip install -r requirements.txt
-## usage
+3 usage
    Prepare input:
 Place images in /samples/samples directory
-Provide camera parameters in camera_params.json
 
-## run reconstruction
+4 run reconstruction
 python calibrated.py 
 python uncalibrated.py
